@@ -1,2 +1,4 @@
 # satellite-image-classification
 The project aims to develop deep learning models that can classify remote sensing (RS) satellite images (collecting earth images without physical contact) into four categories: cloudy, desert, green area, and water.  The model should process input satellite images, identify visual patterns, and correctly assign each image to its category.
+
+I got the dataset “Satellite Image Classification (RSI-CB256)” from Kaggle, by the author is Mahmoud Reda. The dataset belongs to the remote sensing domain and is designed for land cover classification using satellite imagery. The images were collected from sensors and Google Maps snapshots. The dataset contains 5631 JPEG images classified into 4 classes (1500 cloudy images, 1311 desert images, 1500 green area images, and 1500 water images). The image resolution is 256x256. 
